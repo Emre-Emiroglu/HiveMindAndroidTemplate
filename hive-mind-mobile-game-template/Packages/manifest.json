@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
     "com.emreemiroglu.hmhelpers": "https://github.com/Emre-Emiroglu/HMHelpers.git",
     "com.emreemiroglu.hmmodelviewcontroller": "https://github.com/Emre-Emiroglu/HMModelViewController.git",
     "com.emreemiroglu.hmpool": "https://github.com/Emre-Emiroglu/HMPool.git",
@@ -7,10 +8,9 @@
     "com.emreemiroglu.hmsignalbus": "https://github.com/Emre-Emiroglu/HMSignalBus.git",
     "com.emreemiroglu.hmspersistentdata": "https://github.com/Emre-Emiroglu/HMPersistentData.git",
     "com.emreemiroglu.hmutilities": "https://github.com/Emre-Emiroglu/HMUtilities.git",
-    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
     "com.kyrylokuzyk.primetween": "file:../Assets/Plugins/PrimeTween/internal/com.kyrylokuzyk.primetween.tgz",
-    "com.unity.ide.rider": "3.0.36",
-    "com.unity.test-framework": "1.4.6",
+    "com.unity.ide.rider": "3.0.38",
+    "com.unity.test-framework": "1.6.0",
     "com.unity.ugui": "2.0.0",
     "jp.hadashikick.vcontainer": "https://github.com/hadashiA/VContainer.git?path=VContainer/Assets/VContainer#1.16.8",
     "com.unity.modules.accessibility": "1.0.0",
