@@ -1,6 +1,6 @@
 ﻿# Changelog
 
-## [1.0.0] - 2025-07-07
+## [1.0.0] - 2026-01-29
 
 ### Added
 - MVC Architecture implementation with scope-based organization
@@ -16,8 +16,8 @@
   - Scene management API
   - Advanced debugging tools
 - Integrated packages:
-  - HMHelpers, HMModelViewController, HMPersistentData
-  - HMPool, HMProDebug, HMSignalBus, HMUtilities
+  - ModelViewMediatorController, PersistentData
+  - Pool, SignalBus, Utilities
   - VContainer for dependency injection
   - UniTask for async operations
   - PrimeTween for optimized animations
